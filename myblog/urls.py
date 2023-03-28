@@ -20,5 +20,5 @@ from blog.views import index
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('sex/', index)
+    path('index/', index)
 ]
