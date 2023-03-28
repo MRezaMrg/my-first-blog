@@ -4,5 +4,17 @@ git add -A
 git commit -m "first commit"
 دستور بالا فایل های اضافه شده را تایید یا کامیت میکند
 
-git push origin master
-بعد از وارد کردن دستور بالا فایل ها شروع به آپلود در گیت شما میشوند.
+git push origin
+بعد از وارد کردن دستور بالا فایل ها شروع به آپلود در گیت شما میشوند
+
+$ git status
+$ git add .
+$ git status
+$ git commit -m "Added view and template for detailed blog post as well as CSS for the site."
+$ git push
+
+
+در سایت
+$ cd ~/<your-pythonanywhere-domain>.pythonanywhere.com
+$ git pull
+
