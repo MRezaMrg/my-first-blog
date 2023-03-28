@@ -4,7 +4,7 @@ git add -A
 git commit -m "first commit"
 دستور بالا فایل های اضافه شده را تایید یا کامیت میکند
 
-git push origin
+git push
 بعد از وارد کردن دستور بالا فایل ها شروع به آپلود در گیت شما میشوند
 
 $ git status
